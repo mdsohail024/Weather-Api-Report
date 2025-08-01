@@ -61,4 +61,9 @@ This project provides an interactive and dynamic weather forecasting dashboard u
 ---
 
 ## 📂 Project Structure
+Weather-Api-Report/
+│
+├── Weather_Report.pbix ← Main Power BI file
+├── Screenshot.png ← Dashboard preview image
+└── README.md ← You're here!
 
